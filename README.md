@@ -2,7 +2,9 @@
 
 Raiffeisenbank customers purchase and withdraw cash at ATMs with the help of cards. 
 Championship participants must predict two pairs of coordinates: home coordinates (lat/lon) and work coordinates (lat/lon). 
-Evaluation of the quality of the solution is a percentage of cases in the radius of 0.02 degrees relative to the real coordinates of the house and work.
+**Evaluation** of the quality of the solution is a percentage of cases in the radius of 0.02 degrees relative to the real coordinates of the house and work.
+
+The result of the solution is 36/547 place.
 
 This solution includes a set of ipython notebooks to roughly illustrate the modeling process (incl. data preprocessing steps). 
 
